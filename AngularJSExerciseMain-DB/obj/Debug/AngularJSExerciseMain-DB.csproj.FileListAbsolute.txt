@@ -1,0 +1,10 @@
+C:\Software-JS.AngularJS1\AngularJSExerciseMain-API\AngularJSExerciseMain-DB\bin\Debug\AngularJSExerciseMain-DB.dll.config
+C:\Software-JS.AngularJS1\AngularJSExerciseMain-API\AngularJSExerciseMain-DB\bin\Debug\AngularJSExerciseMain-DB.dll
+C:\Software-JS.AngularJS1\AngularJSExerciseMain-API\AngularJSExerciseMain-DB\bin\Debug\AngularJSExerciseMain-DB.pdb
+C:\Software-JS.AngularJS1\AngularJSExerciseMain-API\AngularJSExerciseMain-DB\bin\Debug\EntityFramework.dll
+C:\Software-JS.AngularJS1\AngularJSExerciseMain-API\AngularJSExerciseMain-DB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Software-JS.AngularJS1\AngularJSExerciseMain-API\AngularJSExerciseMain-DB\bin\Debug\EntityFramework.xml
+C:\Software-JS.AngularJS1\AngularJSExerciseMain-API\AngularJSExerciseMain-DB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Software-JS.AngularJS1\AngularJSExerciseMain-API\AngularJSExerciseMain-DB\obj\Debug\AngularJSExerciseMain-DB.csprojResolveAssemblyReference.cache
+C:\Software-JS.AngularJS1\AngularJSExerciseMain-API\AngularJSExerciseMain-DB\obj\Debug\AngularJSExerciseMain-DB.dll
+C:\Software-JS.AngularJS1\AngularJSExerciseMain-API\AngularJSExerciseMain-DB\obj\Debug\AngularJSExerciseMain-DB.pdb
